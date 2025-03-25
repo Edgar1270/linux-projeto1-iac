@@ -6,7 +6,7 @@
 
 # Comandos utilizados:
 
-* * echo
+* echo
 * mkdir
 * groupadd
 * useradd 
